@@ -14,14 +14,14 @@ SISTEMA DE GESTION DOCUMENTAL - CHILE
 
 ```bash
 ======================================================
-Sistema Operativo	•	Linux (CentOS7+) (64 bits)
-Hardware			•	2 x Intel Xeon 3.0 GHz 
-					•	8 GB RAM (+1GB cada 1.000 Usuarios Activos)
-					•	1 TB HD (+1TB por cada 100.000 Usuarios)
-Servidor Web		•	Apache Web Server 2.4.x 
-					•	 PHP 5.4+
-Software adicional	•	Certificado SSL
-Bases de datos		•	MySQL 7+
+Sistema Operativo	• Linux (CentOS7+) (64 bits)
+Hardware			• 2 x Intel Xeon 3.0 GHz 
+					• 8 GB RAM (+1GB cada 1.000 Usuarios Activos)
+					• 1 TB HD (+1TB por cada 100.000 Usuarios)
+Servidor Web		• Apache Web Server 2.4.x 
+					• PHP 5.4+
+Software adicional	• Certificado SSL
+Bases de datos		• MySQL 7+
 ======================================================
 ```
 
