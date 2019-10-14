@@ -2,9 +2,7 @@
 SISTEMA DE GESTION DOCUMENTAL - CHILE
 
 [![License](https://img.shields.io/badge/licence-Apache%202.0-brightgreen.svg?style=flat)](LICENSE)
-[![auc][aucSvg]][auc] [![result][apiSvg]][result] [![build][buildSvg]][build] [![License][licenseSvg]][license]
-[licenseSvg]: https://img.shields.io/badge/License-Apache--2.0-brightgreen.svg
-[license]: https://github.com/compuvalpo/sgd_chile.git/master/LICENSE
+
 
 ## Contenido
 
