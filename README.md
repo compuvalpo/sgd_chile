@@ -13,38 +13,38 @@ SISTEMA DE GESTION DOCUMENTAL - CHILE
 ## Requisitos
 
 ```bash
-======================================================
+======================================================================================
 Sistema Operativo	• Linux (CentOS7+) (64 bits)
-Hardware			• 2 x Intel Xeon 3.0 GHz 
-					• 8 GB RAM (+1GB cada 1.000 Usuarios Activos)
-					• 1 TB HD (+1TB por cada 100.000 Usuarios)
+Hardware		• 2 x Intel Xeon 3.0 GHz 
+			• 8 GB RAM (+1GB cada 1.000 Usuarios Activos)
+			• 1 TB HD (+1TB por cada 100.000 Usuarios)
 Servidor Web		• Apache Web Server 2.4.x 
-					• PHP 5.4+
+			• PHP 5.4+
 Software adicional	• Certificado SSL
 Bases de datos		• MySQL 7+
-======================================================
+======================================================================================
 ```
 
 ```bash
-======================================================
-- Jquery			https://jquery.com/
+======================================================================================
+- Jquery	https://jquery.com/
 
-- Bootstrap			https://getbootstrap.com/
+- Bootstrap	https://getbootstrap.com/
 
-- AdminLTE			https://adminlte.io/themes/AdminLTE/index2.html
+- AdminLTE	https://adminlte.io/themes/AdminLTE/index2.html
 
 - Jquery.Datatable	https://datatables.net/
 
 - Jquery.LiveQuery	https://plugins.jquery.com/livequery/
 
-- Font Awesome		https://fontawesome.com/
+- Font Awesome	https://fontawesome.com/
 
-- Select2			https://select2.org/
+- Select2	https://select2.org/
 
-- reCAPTCHA 		https://www.google.com/recaptcha/intro/v3.html
+- reCAPTCHA	https://www.google.com/recaptcha/intro/v3.html
 
-- Moment			https://momentjs.com/
-======================================================
+- Moment	https://momentjs.com/
+======================================================================================
 ```
 
 
