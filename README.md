@@ -2,7 +2,7 @@
 SISTEMA DE GESTION DOCUMENTAL - CHILE
 
 [![License](https://img.shields.io/badge/licence-Apache%202.0-brightgreen.svg?style=flat)](LICENSE)
-[![Build Status](https://travis-ci.org/Samsung/TizenRT.svg?branch=master)](https://travis-ci.org/Samsung/TizenRT)
+[![Build Status](https://github.com/compuvalpo/sgd_chile.git?branch=master)](https://github.com/compuvalpo/sgd_chile.git)
 
 ## Contenido
 
@@ -33,9 +33,9 @@ Bases de datos		• MySQL 7+
 
 - AdminLTE	https://adminlte.io/themes/AdminLTE/index2.html
 
-- Jquery.Datatable	https://datatables.net/
+- Datatable	https://datatables.net/
 
-- Jquery.LiveQuery	https://plugins.jquery.com/livequery/
+- LiveQuery	https://plugins.jquery.com/livequery/
 
 - Font Awesome	https://fontawesome.com/
 
